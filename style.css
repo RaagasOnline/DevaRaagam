@@ -1,0 +1,31 @@
+body
+{
+ background-image:url('https://wallpaperaccess.com/full/39632.jpg');
+  margin-left:100px;
+  margin-left:35px;
+}
+   
+h1
+{
+  color:red;
+  text-align:center;
+  font-size:200px;
+  font-family:Impact;
+
+}
+
+h2{
+  color:#CC9;
+  font-weight:900;
+  font-size:36px;
+  font-size:64px;
+}
+a{
+  color:yellow;
+  font-size:56px;
+  }
+table{
+  width:99%;
+  text-align:center;
+  padding-left:50px;
+}
